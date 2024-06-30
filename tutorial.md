@@ -95,4 +95,4 @@ Regular expressions are a powerful tool for pattern matching and validation. By 
 
 ## About the Author
 
-This tutorial was created by [Your Name](https://github.com/yourgithubprofile). Feel free to connect with me on GitHub and check out my other projects.
+This tutorial was created by [Patrick Granger](https://github.com/U6028449). Feel free to connect with me on GitHub and check out my other projects.
